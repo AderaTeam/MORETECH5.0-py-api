@@ -1,0 +1,12 @@
+fastapi
+numpy
+requests
+uvicorn
+pandas
+scikit-learn
+scipy
+numpy
+torch
+tensorflow
+dill
+python-dotenv
